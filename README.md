@@ -1,1 +1,1 @@
-# github-to-ec2-cicd
+# github-to-lambda-demo
